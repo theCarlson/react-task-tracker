@@ -10,7 +10,7 @@ In the project directory, you must first run:
 
 This will run the backend server. App will not work without running this server.
 
-### `Then open a new terminal and run:`
+#### `Then open a new terminal and run:`
 
 ### `npm start`
 
